@@ -1,0 +1,16 @@
+
+
+body{
+    background: #11009E;
+}
+.navbar {
+    background-color: #7895CB;
+  
+}
+
+marquee{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: #fff;
+}
